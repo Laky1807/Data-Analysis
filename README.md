@@ -1,2 +1,2 @@
 # Data-Analysis
-customers, products, metric, KPI
+customers, products, metrics, KPI
